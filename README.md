@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mykaylasi
-- 👀 Currently, I’m interested in taking my Java skills from beginner to intermediate.
-- 🌱 I’m currently reviewing my old programs to make sure they all run as intended.
-- 💞️ I’m looking to collaborate on said programs. I welcome all advice and tips!
+- 👀 Currently, I’m interested in virtual internships to explore different career paths.
+- 🌱 I’m currently enrolled in Lyft's Back End Engineering virtual experience program.
+- 💞️ I welcome all advice and tips!
 - 📫 How to reach me: My LinkedIn is attached to my profile. 
 
 <!---
